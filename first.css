@@ -1,0 +1,20 @@
+h2{
+    color: rgb(0, 150, 0);
+}
+.para1{
+    border: 5px dashed lightseagreen;
+    
+}
+p{
+    color: hsl(140, 100%, 30%);
+}
+h1{
+    color: #009933;
+}
+.para2{
+    color: rgb(153, 204, 0);
+    border: 5px dashed lightseagreen;
+}
+.para4{
+    border: 5px dashed lightseagreen;
+}
